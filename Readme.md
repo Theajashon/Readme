@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thejashon <h1>
+<h1 align="center">Hi 👋, I'm Thejashon</h1>
 <h3 align="center">An undergraduate IT student from Sri Lanka</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently pursuing **BSc in Information Technology** at **University of Moratuwa**
 - 💻 I'm passionate about **software development**, **web technologies**, and **open source**
-- 🌱 Currently learning **HTML**, **CSS**, and **Js**
+- 🌱 Currently learning **HTML**, **CSS**, and **JavaScript**
 - 📫 How to reach me: [hariyendthirantheajashon2004@gmail.com](mailto:hariyendthirantheajashon2004@gmail.com)
 - ⚡ Fun fact: I love solving real-world problems with code!
 
@@ -40,7 +40,7 @@
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hariyendthirantheajashon2004@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
