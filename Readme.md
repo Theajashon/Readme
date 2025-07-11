@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
-- 🎓 I’m currently pursuing **BSc in Information Technology** at **University of Moratuwa**
+- 🎓 I’m currently pursuing **Bachelor of Information Technology** at **University of Moratuwa**
 - 💻 I'm passionate about **software development**, **web technologies**, and **open source**
 - 🌱 Currently learning **HTML**, **CSS**, and **JavaScript**
 - 📫 How to reach me: [hariyendthirantheajashon2004@gmail.com](mailto:hariyendthirantheajashon2004@gmail.com)
